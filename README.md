@@ -18,6 +18,6 @@ Hi, i'm Mehdi Bukhari, a passionate full stack software engineer from Pakistan. 
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Angular](https://img.shields.io/badge/-React-000?&logo=Angular)
+![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
