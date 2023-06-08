@@ -1,6 +1,6 @@
 Hi, i'm Mehdi Bukhari, a passionate full stack software engineer from Pakistan. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=mehdibukhari&left_color=green&right_color=red)
+
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
